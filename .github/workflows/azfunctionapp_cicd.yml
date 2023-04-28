@@ -12,7 +12,7 @@ on:
       GIT_FunctionApp_Name:
         description: 'Provide the Function App Name'
         required: true
-        default: 'functionappsrs'
+        default: 'Hirennodejs-function'
         
       GIT_FunctionApp_URL:
         description: 'Provide the Function App URL'
